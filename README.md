@@ -1,4 +1,4 @@
-This project compares the rise in housing prices (both rent and sale) across Portuguese districts with wage growth from 2015 to 2024.
+This project compares the rise in housing prices (for both rent and sale) across Portuguese districts with wage growth from 2015 to 2024.
 
 Key Insights:
 Housing prices increased far faster than wages
